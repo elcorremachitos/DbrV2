@@ -1,0 +1,16 @@
+[
+{
+  "modid": "main",
+  "name": "Dragon Block Resurrection",
+  "description": "Dragon Block Resurrection",
+  "version": "1.0",
+  "mcversion": "1.7.10",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Machitos"],
+  "credits": "Machitos",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
