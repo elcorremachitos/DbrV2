@@ -1,0 +1,9 @@
+Para retomar el proyecto en el futuro usa: 
+
+./gradlew clean
+./gradlew clean setupDecompWorkspace
+./gradlew clean eclipse
+./gradlew setupDecompWorkspace
+./gradlew eclipse
+
+Debes instalar JDK 8.0 y ir a "Variables del sistema" y setear "JAVA_HOME" y "PATH"
